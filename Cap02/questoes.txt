@@ -1,0 +1,16 @@
+1 - Qual o valor total vendido?
+r: 12,64 milhões
+cartão de dados, clica em Total_Vendas, pra 1 métrica
+
+2 - Qnts vendas foram reliazdas por categoria d eproduto?
+r: Suprimetos - 31,27 ; Tecnolgia: 10,14 milhoes Moveis: 9,88 Milhões.
+Grafico de pizza: legenda por Categorias, Valores por  ID_Pedidos, pra 2 métricas
+
+3 - Qnts vendas foram realizadas por país considerando a prioridade de entrega?
+Grafico empilhada, pra 3 métricas
+
+4 - Qual a média de desconto por subcategoria de produtos?
+Gráfico de colunas empilhadas, eixo Y - Média de desconto, eixo X - subcategoria
+
+5 - Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
+Filtro de mapa, com Localização por "Pais"; Filtro de Tamanho da Bolha por "Media de Total_Vendas"
